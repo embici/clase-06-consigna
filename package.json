@@ -1,0 +1,15 @@
+{
+  "name": "clase-06-server-consigna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server_consigna.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server_consigna.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

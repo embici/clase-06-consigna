@@ -1,0 +1,3 @@
+[{"id":"1","title":"Escuadra", "thumbnail":"http://localhost:8080/img/01.jpg", "price": 123.45},
+{"id":"2","title":"Calculadora", "thumbnail":"http://localhost:8080/img/02.jpg", "price": 123.45},
+{"id":"3","title":"Globo Terraqueo", "thumbnail":"http://localhost:8080/img/03.jpg", "price": 123.45}]
